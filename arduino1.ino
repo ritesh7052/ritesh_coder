@@ -1,6 +1,6 @@
 int led1=8;
 int led2=7;
-int led
+int led3=6;
 int IR1=9;
 int IR2=10;
 int IR3=11; 
